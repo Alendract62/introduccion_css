@@ -1,0 +1,16 @@
+body{
+    background-color: #C0C0C0;
+
+}
+h1{
+    color: #2F4F4F;
+    text-align: center;
+    font-size: 30px;
+    border: black 2px solid;
+    background: -webkit-linear-gradient(red, beige);
+}
+
+p{color: #2F4F4F;
+text-align: justify;
+font-size: 20px;
+}

@@ -1,0 +1,13 @@
+p::first-letter{
+    color: #ff0000;
+    font-size: xx-large;
+}
+p::first-line{
+    columns: #0000ff;
+    font-variant: small-caps;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}

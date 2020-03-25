@@ -1,0 +1,20 @@
+    /*No visistado*/
+    a:link{
+        color: red;
+        font-size: 50px;
+    }
+    
+    /*Visistado*/
+    a:visited{
+        color: green;
+    }
+    
+    /*Cursor*/
+    a:hover{
+        color: hotpink;
+    }
+    
+    /*Link Seleccionado*/
+    a:active{
+        color: blue;
+    }
